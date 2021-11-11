@@ -12,6 +12,7 @@ GEM
 
 PLATFORMS
   universal-darwin-20
+  x86_64-linux
 
 DEPENDENCIES
   pry
@@ -19,4 +20,4 @@ DEPENDENCIES
   rack-test (~> 1.1)
 
 BUNDLED WITH
-   2.2.24
+   2.2.30
